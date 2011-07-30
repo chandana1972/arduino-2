@@ -1,0 +1,8 @@
+This project is a collection of libraries and examples for controlling
+an Arduino Uno / ATMega 328P.
+
+Please be aware that, unless stated otherwise, all code is tailored
+towards the Arduino Uno and might not work on other Arduinos.
+
+Furthermore, the individual parts are far from complete and only
+advance as I work on new projects.
